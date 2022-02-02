@@ -1,1 +1,4 @@
+Day 2
+practiced stage ,stash,conflict resolveing in git
 
+repo url:https://github.com/ja1m1n/gitexample.git
